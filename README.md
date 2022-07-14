@@ -4,7 +4,7 @@
 
 <h3 align="center"><em>"I sell here, Sir, what all the world desires to have—POWER."</em></h3>
 
-👋 Hello, I'm Yunseo Kim. I'm an undergraduate student majoring in Nuclear Engineering at Seoul National University. I'm interested in *Fusion Power*, *Machine Learning*, and *Quantum Computing*. I usually organize works related to machine learning and quantum computing here on Github.
+👋 Hello, I'm Yunseo Kim. I'm an undergraduate student majoring in Nuclear Engineering at Seoul National University. I'm interested in *Fusion Power*, *Machine Learning*, and *Quantum Computing*. I usually organize works related to machine learning and quantum computing on GitHub.
 
 I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*: fusion power will arrive **"when mankind needs it – maybe a short time before that"**!
 
