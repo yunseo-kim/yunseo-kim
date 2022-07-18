@@ -46,4 +46,5 @@ Languages and tools that I've used at least once.
 [![Email Badge](https://img.shields.io/badge/-Email-8B89CC?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:yunseo47@proton.me)](mailto:yunseo47@proton.me)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yunseo.qleap/)](https://www.facebook.com/yunseo.qleap/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunseo.qleap/)](https://www.instagram.com/yunseo.qleap/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yunseo-kim/)](https://www.linkedin.com/in/yunseo-kim/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yunseo_qleap?color=%231DA1F2&label=%40yunseo_qleap&logo=Twitter&style=flat-square)](https://twitter.com/yunseo_qleap)
