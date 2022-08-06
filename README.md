@@ -43,7 +43,7 @@ Languages and tools that I've used at least once.
 
 ### Social Links
 [![Blog Badge](https://img.shields.io/badge/-Blog-3884FF?style=flat-square&logo=Gitbook&logoColor=white&link=https://yunseo-qleap.github.io)](https://yunseo-qleap.github.io)
-[![Email Badge](https://img.shields.io/badge/-Email-8B89CC?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:yunseo47@proton.me)](mailto:yunseo47@proton.me)
+[![Email Badge](https://img.shields.io/badge/-Email-8B89CC?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:contact@yunseo.me)](mailto:contact@yunseo.me)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yunseo.qleap/)](https://www.facebook.com/yunseo.qleap/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunseo.qleap/)](https://www.instagram.com/yunseo.qleap/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yunseo-kim/)](https://www.linkedin.com/in/yunseo-kim/)
