@@ -17,12 +17,12 @@ I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*:
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yunseo-kim/)](https://www.linkedin.com/in/yunseo-kim/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yunseo_qleap?color=%231DA1F2&label=%40yunseo_qleap&logo=Twitter&style=flat-square)](https://twitter.com/yunseo_qleap)
 
-### Badges
+### Badges <img src = "https://media.giphy.com/media/oUhQb6SSMXEDnvBnbJ/giphy.gif" width=32>
 <!--START_SECTION:badges-->
 [![Qiskit Global Summer School 2022 - Quantum Excellence](https://images.credly.com/size/110x110/images/e3d55ead-2e2a-4ed9-916b-db890b307583/image.png)](http://www.credly.com/badges/89bbe1e6-a2a5-4ad9-b10a-d831db033b0b "Qiskit Global Summer School 2022 - Quantum Excellence")
 <!--END_SECTION:badges-->
 
-### GitHub Stats
+### GitHub Stats <img src = "https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width=32>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunseo-qleap&edge_flat=true)](https://hits.seeyoufarm.com)
 ![GitHub User's stars](https://img.shields.io/github/stars/yunseo-qleap?affiliations=OWNER%2CCOLLABORATOR&label=GitHub%20stars&logo=GitHub&style=flat-square)
 
