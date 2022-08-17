@@ -19,6 +19,7 @@ I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*:
 
 ### Badges
 <!--START_SECTION:badges-->
+[![Qiskit Global Summer School 2022 - Quantum Excellence](https://images.credly.com/size/110x110/images/e3d55ead-2e2a-4ed9-916b-db890b307583/image.png)](http://www.credly.com/badges/89bbe1e6-a2a5-4ad9-b10a-d831db033b0b "Qiskit Global Summer School 2022 - Quantum Excellence")
 <!--END_SECTION:badges-->
 
 ### GitHub Stats
