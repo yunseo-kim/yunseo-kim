@@ -8,6 +8,20 @@
 
 I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*: fusion power will arrive **"when mankind needs it – maybe a short time before that"**!
 
+### Social Links <img src = "https://media.giphy.com/media/pLo39nQ9yGahnDFbay/giphy.gif" width=32>
+
+[![Blog Badge](https://img.shields.io/badge/-Blog-3884FF?style=flat-square&logo=Gitbook&logoColor=white&link=https://yunseo-qleap.github.io)](https://yunseo-qleap.github.io)
+[![Email Badge](https://img.shields.io/badge/-Email-8B89CC?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:contact@yunseo.me)](mailto:contact@yunseo.me)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yunseo.qleap/)](https://www.facebook.com/yunseo.qleap/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunseo.qleap/)](https://www.instagram.com/yunseo.qleap/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yunseo-kim/)](https://www.linkedin.com/in/yunseo-kim/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yunseo_qleap?color=%231DA1F2&label=%40yunseo_qleap&logo=Twitter&style=flat-square)](https://twitter.com/yunseo_qleap)
+
+### Badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+### GitHub Stats
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunseo-qleap&edge_flat=true)](https://hits.seeyoufarm.com)
 ![GitHub User's stars](https://img.shields.io/github/stars/yunseo-qleap?affiliations=OWNER%2CCOLLABORATOR&label=GitHub%20stars&logo=GitHub&style=flat-square)
 
@@ -15,8 +29,7 @@ I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseo-qleap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunseo47)](https://solved.ac/yunseo47)
 
-### 🛠 Languages and Tools 🛠
-Languages and tools that I've used at least once.
+### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
 
 ![Clang](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
@@ -40,11 +53,3 @@ Languages and tools that I've used at least once.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white)
 ![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white)
-
-### Social Links
-[![Blog Badge](https://img.shields.io/badge/-Blog-3884FF?style=flat-square&logo=Gitbook&logoColor=white&link=https://yunseo-qleap.github.io)](https://yunseo-qleap.github.io)
-[![Email Badge](https://img.shields.io/badge/-Email-8B89CC?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:contact@yunseo.me)](mailto:contact@yunseo.me)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yunseo.qleap/)](https://www.facebook.com/yunseo.qleap/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunseo.qleap/)](https://www.instagram.com/yunseo.qleap/)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yunseo-kim/)](https://www.linkedin.com/in/yunseo-kim/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yunseo_qleap?color=%231DA1F2&label=%40yunseo_qleap&logo=Twitter&style=flat-square)](https://twitter.com/yunseo_qleap)
