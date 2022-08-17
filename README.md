@@ -26,8 +26,8 @@ I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunseo-qleap&edge_flat=true)](https://hits.seeyoufarm.com)
 ![GitHub User's stars](https://img.shields.io/github/stars/yunseo-qleap?affiliations=OWNER%2CCOLLABORATOR&label=GitHub%20stars&logo=GitHub&style=flat-square)
 
-[![Yunseo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunseo-qleap&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseo-qleap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Yunseo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunseo-qleap&show_icons=true&include_all_commits=true&disable_animations=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseo-qleap&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunseo47)](https://solved.ac/yunseo47)
 
 ### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
