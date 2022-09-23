@@ -3,6 +3,7 @@
 ## 김윤서 (Yunseo Kim)
 
 <h3 align="center"><em>"I sell here, Sir, what all the world desires to have—POWER."</em></h3>
+<p align="right">―<a href="https://en.wikipedia.org/wiki/Matthew_Boulton"><i>Matthew Boulton</i></a></p>
 
 👋 Hello, I'm Yunseo Kim. I'm an undergraduate student majoring in Nuclear Engineering at Seoul National University. I'm interested in *Fusion Power*, *Machine Learning*, and *Quantum Computing*. I usually organize works related to machine learning and quantum computing on GitHub.
 
