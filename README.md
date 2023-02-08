@@ -11,12 +11,12 @@ I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*:
 
 ### Social Links <img src = "https://media.giphy.com/media/pLo39nQ9yGahnDFbay/giphy.gif" width=32>
 
-[![Blog Badge](https://img.shields.io/badge/-Blog-3884FF?style=flat-square&logo=Gitbook&logoColor=white&link=https://yunseo-qleap.github.io)](https://yunseo-qleap.github.io)
+[![Blog Badge](https://img.shields.io/badge/-Blog-3884FF?style=flat-square&logo=Gitbook&logoColor=white&link=https://yunseo-kim.github.io)](https://yunseo-kim.github.io)
 [![Email Badge](https://img.shields.io/badge/-Email-8B89CC?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:contact@yunseo.me)](mailto:contact@yunseo.me)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yunseo.qleap/)](https://www.facebook.com/yunseo.qleap/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunseo.qleap/)](https://www.instagram.com/yunseo.qleap/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yunse0-kim/)](https://www.facebook.com/yunse0-kim/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunse0.k/)](https://www.instagram.com/yunse0.k/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yunseo-kim/)](https://www.linkedin.com/in/yunseo-kim/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yunseo_qleap?color=%231DA1F2&label=%40yunseo_qleap&logo=Twitter&style=flat-square)](https://twitter.com/yunseo_qleap)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yunse0_kim?color=%231DA1F2&label=%40yunse0_kim&logo=Twitter&style=flat-square)](https://twitter.com/yunse0_kim)
 
 ### Badges <img src = "https://media.giphy.com/media/oUhQb6SSMXEDnvBnbJ/giphy.gif" width=32>
 <!--START_SECTION:badges-->
@@ -25,10 +25,10 @@ I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*:
 
 ### GitHub Stats <img src = "https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width=32>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunseo-qleap&edge_flat=true)](https://hits.seeyoufarm.com)
-![GitHub User's stars](https://img.shields.io/github/stars/yunseo-qleap?affiliations=OWNER%2CCOLLABORATOR&label=GitHub%20stars&logo=GitHub&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/yunseo-kim?affiliations=OWNER%2CCOLLABORATOR&label=GitHub%20stars&logo=GitHub&style=flat-square)
 
-[![Yunseo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunseo-qleap&show_icons=true&include_all_commits=true&disable_animations=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseo-qleap&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Yunseo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunseo-kim&show_icons=true&include_all_commits=true&disable_animations=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseo-kim&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunseo47)](https://solved.ac/yunseo47)
 
 ### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
