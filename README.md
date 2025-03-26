@@ -21,7 +21,9 @@ I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*:
 
 ### Badges <img src = "https://media.giphy.com/media/oUhQb6SSMXEDnvBnbJ/giphy.gif" width=32>
 <!--START_SECTION:badges-->
-[![Qiskit Global Summer School 2022 - Quantum Excellence](https://images.credly.com/images/36d21fa5-2f19-4cdc-a80d-29488161b6cd/image.png){: width="150" }](https://www.credly.com/badges/0a42bffd-1d2e-49ec-ab59-f8a150cec992)
+<a href="https://www.credly.com/badges/0a42bffd-1d2e-49ec-ab59-f8a150cec992" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/images/36d21fa5-2f19-4cdc-a80d-29488161b6cd/image.png" alt="Qiskit Global Summer School 2022 - Quantum Excellence" width="150">
+</a>
 <!--END_SECTION:badges-->
 
 ### GitHub Stats <img src = "https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width=32>
