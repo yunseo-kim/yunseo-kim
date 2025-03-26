@@ -11,7 +11,7 @@ I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*:
 
 ### Social Links <img src = "https://media.giphy.com/media/pLo39nQ9yGahnDFbay/giphy.gif" width=32>
 
-[![Blog Badge](https://img.shields.io/badge/-Blog-3884FF?style=flat-square&logo=Gitbook&logoColor=white&link=https://yunseo-kim.github.io)](https://yunseo-kim.github.io)
+[![Blog Badge](https://img.shields.io/badge/-Blog-3884FF?style=flat-square&logo=Gitbook&logoColor=white&link=https://www.yunseo.kim/)](https://www.yunseo.kim/)
 [![Email Badge](https://img.shields.io/badge/-Email-8B89CC?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:contact@yunseo.me)](mailto:contact@yunseo.me)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/yunseo-kim)](https://github.com/yunseo-kim)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yunse0.kim/)](https://www.facebook.com/yunse0-kim/)
