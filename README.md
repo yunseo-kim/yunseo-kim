@@ -26,8 +26,8 @@ I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*:
 </a>
 <!--END_SECTION:badges-->
 
-### GitHub Stats <img src = "https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width=32>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunseo-qleap&edge_flat=true)](https://hits.seeyoufarm.com)
+### Stats <img src = "https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width=32>
+[![Docker Pulls](https://img.shields.io/docker/pulls/yunseokim/dl-env?style=flat-square&logo=docker&logoColor=2496ED&link=https%3A%2F%2Fhub.docker.com%2Fu%2Fyunseokim)](https://hub.docker.com/u/yunseokim)
 ![GitHub User's stars](https://img.shields.io/github/stars/yunseo-kim?affiliations=OWNER%2CCOLLABORATOR&label=GitHub%20stars&logo=GitHub&style=flat-square)
 
 [![Yunseo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunseo-kim&show_icons=true&include_all_commits=true&disable_animations=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
