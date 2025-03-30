@@ -11,7 +11,7 @@
 
 I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*: fusion power will arrive **"when mankind needs it – maybe a short time before that"**!
 
-### Social Links <img src = "https://media.giphy.com/media/pLo39nQ9yGahnDFbay/giphy.gif" width=32>
+### Social Links <img src = "https://media.giphy.com/media/pLo39nQ9yGahnDFbay/giphy.gif" width=32 alt="">
 
 [![Blog Badge](https://img.shields.io/badge/-Blog-3884FF?style=flat-square&logo=Gitbook&logoColor=white&link=https://www.yunseo.kim/)](https://www.yunseo.kim/)
 [![Email Badge](https://img.shields.io/badge/-Email-8B89CC?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:contact@yunseo.me)](mailto:contact@yunseo.me)
@@ -21,22 +21,22 @@ I agree with *[Lev Artsimovich](https://en.wikipedia.org/wiki/Lev_Artsimovich)*:
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&link=https://www.linkedin.com/in/yunseo-kim/)](https://www.linkedin.com/in/yunseo-kim/)
 [![X Follow](https://img.shields.io/twitter/follow/yunse0_kim?label=%40yunse0_kim&logo=x&style=flat-square&labelColor=000000)](https://x.com/yunse0_kim)
 
-### Badges <img src = "https://media.giphy.com/media/oUhQb6SSMXEDnvBnbJ/giphy.gif" width=32>
+### Badges <img src = "https://media.giphy.com/media/oUhQb6SSMXEDnvBnbJ/giphy.gif" width=32 alt="">
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/0a42bffd-1d2e-49ec-ab59-f8a150cec992" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/images/36d21fa5-2f19-4cdc-a80d-29488161b6cd/image.png" alt="Qiskit Global Summer School 2022 - Quantum Excellence" width="150">
 </a>
 <!--END_SECTION:badges-->
 
-### Stats <img src = "https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width=32>
+### Stats <img src = "https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width=32 alt="">
 [![Docker Pulls](https://img.shields.io/docker/pulls/yunseokim/dl-env?style=flat-square&logo=docker&logoColor=2496ED&link=https%3A%2F%2Fhub.docker.com%2Fu%2Fyunseokim)](https://hub.docker.com/u/yunseokim)
 ![GitHub User's stars](https://img.shields.io/github/stars/yunseo-kim?affiliations=OWNER%2CCOLLABORATOR&label=GitHub%20stars&logo=GitHub&style=flat-square)
 
 [![Yunseo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunseo-kim&show_icons=true&include_all_commits=true&disable_animations=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseo-kim&hide=jupyter%20notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunseo47)](https://solved.ac/yunseo47)
+[![Solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=yunseo47)](https://solved.ac/yunseo47)
 
-### Skills & Favorite Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+### Skills & Favorite Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" alt="">
 
 ![Clang](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
