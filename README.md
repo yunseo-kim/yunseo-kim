@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yunseo%20Kim!&fontAlign=65&fontAlignY=40&color=gradient&desc=Hello,%20I%20am%20&descAlign=25&descAlignY=40&descSize=50)
 
-![GitHub Profile Views since Mar 30, 12025 HE](https://komarev.com/ghpvc/?username=yunseo-kim&style=for-the-badge&label=Profile+Views+since+Mar+30,+12025+HE)
+![Profile Views since Mar 30, 12025 HE](https://komarev.com/ghpvc/?username=yunseo-kim&style=for-the-badge&label=Profile+Views+since+Mar+30,+12025+HE)
 
 ## 김윤서 (Yunseo Kim)
 
