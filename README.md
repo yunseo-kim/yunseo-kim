@@ -133,9 +133,14 @@ B.S. in Nuclear Engineering (Minor in Physics)
   ![Bitwarden](https://img.shields.io/badge/-Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
   ![WebAuthn](https://img.shields.io/badge/-WebAuthn-3423A6?style=flat-square&logo=webauthn&logoColor=white)
   ![YubiKey](https://img.shields.io/badge/-YubiKey-84BD00?style=flat-square&logo=yubico&logoColor=white)
-  ![Ente Auth](https://img.shields.io/badge/-Ente%20Auth-9610D6?style=flat-square)
+  ![Ente Auth](https://img.shields.io/badge/-Ente%20Auth-9610D6?style=flat-square&logo=ente)
   ![Tor Project](https://img.shields.io/badge/-Tor%20Project-7D4698?style=flat-square&logo=torproject&logoColor=white)
   ![Proton VPN](https://img.shields.io/badge/-Proton%20VPN-66DEB1?style=flat-square&logo=protonvpn&logoColor=white)
   ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
   ![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?style=flat-square&logo=libreoffice&logoColor=white)
-  ![ONLYOFFICE](https://img.shields.io/badge/-ONLYOFFICE-444444?style=flat-square&logo=onlyoffice&logoColor=white)  
+  ![ONLYOFFICE](https://img.shields.io/badge/-ONLYOFFICE-444444?style=flat-square&logo=onlyoffice&logoColor=white)
+
+### Military Service <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlseDZnOXdpaTA2dDM5ZmcyZDVzdXBhdXpqZGhnOXFseDNiMjh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HL6atEC0FTza78wCLu/giphy.gif" width=32 alt="">
+Republic of Korea Air Force, Sergeant(OR-5), Squad Leader  
+Oct 12022 – Jul 12024  
+Completed mandatory military service.
