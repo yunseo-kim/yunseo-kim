@@ -62,8 +62,8 @@ B.S. in Nuclear Engineering (Minor in Physics)
 [![Docker Pulls](https://img.shields.io/docker/pulls/yunseokim/dl-env?style=flat-square&logo=docker&logoColor=2496ED&link=https%3A%2F%2Fhub.docker.com%2Fu%2Fyunseokim)](https://hub.docker.com/u/yunseokim)
 ![GitHub User's stars](https://img.shields.io/github/stars/yunseo-kim?affiliations=OWNER%2CCOLLABORATOR&label=GitHub%20stars&logo=GitHub&style=flat-square)
 
-[![Yunseo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunseo-kim&show_icons=true&include_all_commits=true&disable_animations=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseo-kim&hide=jupyter%20notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Yunseo Kim's GitHub stats](https://cdn.jsdelivr.net/gh/yunseo-kim/yunseo-kim@main/profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://cdn.jsdelivr.net/gh/yunseo-kim/yunseo-kim@main/profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=yunseo47)](https://solved.ac/yunseo47)
 
 ### Certificates <img src = "https://media.giphy.com/media/oUhQb6SSMXEDnvBnbJ/giphy.gif" width=32 alt="">
