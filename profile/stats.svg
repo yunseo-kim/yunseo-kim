@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yunseo Kim's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 21, Total Commits  : 2178, Total PRs: 123, Total PRs Merged: 122, Total Issues: 3, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 21, Total Commits  : 2181, Total PRs: 127, Total PRs Merged: 125, Total Issues: 3, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 108.32649586180911;
+        stroke-dashoffset: 107.69127430691528;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >123</text>
+      >127</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >122</text>
+      >125</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
